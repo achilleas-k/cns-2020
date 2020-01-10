@@ -1,0 +1,19 @@
+.reveal {
+    font-size: 38px; /* default is 42 */
+}
+.reveal blockquote {
+    width: 100%;
+    padding: 0 5%;
+    text-align: left;
+    font-size: 70%;
+}
+
+.reveal pre {
+    width: 100%;
+    text-align: left;
+}
+
+.reveal section img {
+    border: 0px;
+    margin: 0px;
+}
