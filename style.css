@@ -1,3 +1,6 @@
+.reveal p {
+    text-align: left;
+}
 .reveal {
     font-size: 38px; /* default is 42 */
 }
