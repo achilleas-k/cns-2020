@@ -139,6 +139,20 @@ Note:
 
 ---
 
+#### Frictionless Data for Reproducible Research
+
+- Frictionless Data initiative: [frictionlessdata.io](https://frictionlessdata.io)
+- Specifications for data and metadata interoperability.
+- Collection of open source software libraries that implement the specs.
+
+**Lilly Winfree**, Product Owner, Frictionless Data for Reproducible Research Project, Open Knowledge Foundation
+
+Note:
+
+The Frictionless Data initiative (https://frictionlessdata.io/) at Open Knowledge Foundation (http://okfn.org) aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis, and with an emphasis on reproducible research and open data.
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:

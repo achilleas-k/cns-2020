@@ -76,30 +76,6 @@ Examples will be taken mainly from the [minet](https://github.com/medialab/minet
 
 ---
 
-#### Frictionless Data for Reproducible Research
-
-Note:
-
-Abstract:
-Generating insight and conclusions from research data is often not a straightforward process. Data can be hard to find, archived in difficult to use formats, poorly structured and/or incomplete. These issues create “friction” and make it difficult to use, publish and share data. The Frictionless Data initiative (https://frictionlessdata.io/) at Open Knowledge Foundation (http://okfn.org) aims to reduce friction in working with data, with a goal to make it effortless to transport data among different tools and platforms for further analysis, and with an emphasis on reproducible research and open data. The Frictionless Data project is comprised of a set of specifications (https://frictionlessdata.io/specs/) for data and metadata interoperability, accompanied by a collection of open source software libraries (https://frictionlessdata.io/software/) that implement these specifications, and a range of best practices for data management. Over the past year and a half, we have been working specifically with the researcher community to prototype using Frictionless Data’s open source tools to improve researchers’ data workflows and champion reproducibility. This talk will discuss the technical ideas behind Frictionless Data for research and will also showcase recent collaborative use cases, such as how oceanographers implemented Frictionless Data tooling into their data ingest pipelines to integrate disparate data while maintaining quality metadata in an easy to use interface.
-
-Description:
-## Expected prior knowledge / intended audience
-The audience should be familiar with the themes of researching, using data in various forms from various sources, scientific computing, and the talk is intended for those that are interested in data management, data cleaning, metadata, and using open research data.
-
-## Speaker bio
-Lilly Winfree is the Product Owner of the Frictionless Data for Reproducible Research Project at Open Knowledge Foundation, where she solves researchers’ technical data management issues. She has her PhD in neuroscience, and has been active in the open data, open source, and open science communities for four years. Lilly has given numerous conference presentations and workshops over the past decade, and enjoys presenting on technical topics to technical and non-technical audiences.
-
-## Links to code / slides / material for the talk (optional)
-https://github.com/frictionlessdata/
-http://frictionlessdata.io/software/
-
-## Links to previous talks by the speaker
-Workshop presentation: http://bit.ly/FDepfl
-Talk from a previous position: https://youtu.be/4Jqu8mBXcmA
-
----
-
 #### Journalists are researchers like any others
 
 Note:
