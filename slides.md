@@ -92,13 +92,26 @@ Problem:
 - Additionally, due to the exploratory nature of the scientific method at the frontier of knowledge, most projects require the implementation of custom code.
 - Scientific code is often not suited for sharing and long term maintenance.
 
+---
+
+#### NeuroFedora: Enabling Free/Open Neuroscience
+
+- Fedora-based operating system for Neuroscientists.
+- Over 130 neuroscience packages ready to use + over 120 in the queue.
+- [neuro.fedoraproject.org](https://neuro.fedoraproject.org)
+
+**Aniket Pradhan**, Indraprastha Institute of Information Technology, Delhi
+
+Note:
+
+A NeuroFedora lab image is now available, with over 130 neuroscience packages ready to use. With an up to date documentation at (neuro.fedoraproject.org) and about 120+ packages in the queue, we encourage more FOSS enthusiasts to join the team to help NeuroFedora better aid the open (neuro)-science and research community.
 
 ---
 
 #### DataLad
 ##### Perpetual decentralized management of digital objects for collaborative open science
 
-A software tool developed to aid with everything related to the evolution of digital objects.
+A software tool developed to aid with everything related to the evolution of digital objects:
 - Keeps track of data and code.
 - Makes sharing, retrieving, and linking (meta)data easy.
 - Full digital workflow of data and science.

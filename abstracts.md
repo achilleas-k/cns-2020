@@ -277,27 +277,3 @@ Note:
 Abstract:
 Advene is a video annotation platform (free software) that aims at accompanying scholars in their audiovisual analyses workflow. It promotes flexible and evolving annotation structures and interfaces in order to deal with the inherent dynamic nature of analysis. In this presentation, I will present the platform itself, and illustrate its usage through existing Digital Humanities projects that use it, from structuring videos for interview analyses to implementing a workflow for semantic annotation of movies.
 
----
-
-#### NeuroFedora: Enabling Free/Open Neuroscience
-
-Note:
-
-Abstract:
-NeuroFedora is an initiative to provide a ready to use Fedora-based Free/Open source software platform for neuroscience. We believe that similar to Free software; science should be free for all to use, share, modify, and study. The use of Free software also aids reproducibility, data sharing, and collaboration in the research community. By making the tools used in the scientific process more comfortable to use, NeuroFedora aims to take a step to enable this ideal.
-
-
-Description:
-The computer has become an indispensable resource in modern neuroscience. From the gathering of data, simulation of computational models, analysis of large amounts of information, collaboration, and communication tools for community development, software is now a necessary part of the research pipeline.
-
-The Neuroscience community is gradually moving to the use of Free/Open Source software (FOSS) [1]; however, the software tools used in Neuroscience and research are generally complicated and sophisticated to use. Researchers that hail from a different field other than computing must spend considerable resources on setting up and managing the computing environment and the software tools. This limits the portability of the software, making the installation of software very time-consuming and sometimes tricky.
-
-We present NeuroFedora - A Fedora-based operating system for Neuroscientists.
-We have leveraged the infrastructure resources of the FOSS Fedora community [2] to develop an operating system that includes a plethora of ready-to-use Neuroscience software.
-We follow the standard software development and quality assurance practices set out by the Fedora community to provide an integrated platform for researchers to use.
-Furthermore, NeuroFedora is well integrated with other software such as desktop environments, text editors, and other daily use and development tools.
-
-A NeuroFedora lab image is now available, with over 130 neuroscience packages ready to use. With an up to date documentation at (neuro.fedoraproject.org) and about 120+ packages in the queue, we encourage more FOSS enthusiasts to join the team to help NeuroFedora better aid the open (neuro)-science and research community.
-
-[1]: Gleeson, P., Davison, A. P., Silver, R. A. & Ascoli, G. A. A Commitment to Open Source in Neuroscience. Neuron 96, 964–965 (2017)
-[2]: RedHat. Fedora Project 2008
