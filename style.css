@@ -1,11 +1,11 @@
+.reveal {
+    font-size: 38px; /* default is 42 */
+}
 .reveal h1 {
     font-size: 2em;
 }
 .reveal p {
     text-align: left;
-}
-.reveal {
-    font-size: 38px; /* default is 42 */
 }
 .reveal blockquote {
     width: 100%;
