@@ -409,3 +409,22 @@ The software papers are not the focus of the review.
 Reviewers are asked to conduct a thorough review of the associated software (which must be open source) ensuring that it is well documented, straightforward to install and functions as expected.
 
 Will describe the origin and impact that JOSS has had on research open source and also touch upon issues such as sustainability and credit.
+
+---
+
+#### DSpace 7: A major leap forward for the leading institutional repository platform
+##### Tale of a mature, international FOSS community embracing Angular
+
+- DSpace: open source repository software package.
+- Used in 1000s of research institutions: [dspace.mit.edu](https://dspace.mit.edu), [dash.harvard.edu](https://dash.harvard.edu), [openknowledge.worldbank.org](https://openknowledge.worldbank.org)
+- Outline of the tooling and best practices applied in the community, together with a pro and con evaluation.
+
+**Bram Luyten**, Co-founder, Atmire
+
+Note:
+
+> If you download an academic paper through Google Scholar today, the chance is large that it is served to you thanks to a DSpace institutional repository.
+
+DSpace7 adopting new Angular UI layer, dropping legacy JSPUI and XMLUI.
+
+Atmire: service provider for the open source institutional repository platform DSpace.
