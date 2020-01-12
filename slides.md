@@ -76,26 +76,6 @@ In general, we want to make FOSDEM (and perhaps other software developer confere
 
 ---
 
-#### A community-driven approach towards open innovation for research communication
-
-eLife projects
-- Reproducible Document Stack (RDS), an open-tool stack capturing code, data and compute environment in a live paper to improve research reproducibility.
-- eLife Innovation Sprint.
-
-**Emmy Tsang**, Innovation Community Manager, eLife
-
-Note:
-
-> A reproducible document is one where any code used by the original researcher to compute an output (a graph, equation, table or statistical result) is embedded within the narrative describing the work.
-
-https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article
-
->  eLife Innovation Sprint, a global gathering of researchers, developers, designers, technologists, publishers and others to develop open-source prototypes to change the ways we discover, share, consume and evaluate research.
-
-https://elifesciences.org/labs/d13e1547/innovation-sprint-2019-project-roundup
-
----
-
 #### Challenges and opportunities in scientific software development
 ##### An example from the neurosciences
 
@@ -130,3 +110,23 @@ Note:
 - Datasets as git repositories.
 - Decentralised: Datalad can retrieve data from various sources.
 - Does not transform files (avoids lock in).
+
+---
+
+#### A community-driven approach towards open innovation for research communication
+
+eLife projects:
+- Reproducible Document Stack (RDS), an open-tool stack capturing code, data and compute environment in a live paper to improve research reproducibility.
+- eLife Innovation Sprint.
+
+**Emmy Tsang**, Innovation Community Manager, eLife
+
+Note:
+
+> A reproducible document is one where any code used by the original researcher to compute an output (a graph, equation, table or statistical result) is embedded within the narrative describing the work.
+
+https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-the-next-generation-research-article
+
+>  eLife Innovation Sprint, a global gathering of researchers, developers, designers, technologists, publishers and others to develop open-source prototypes to change the ways we discover, share, consume and evaluate research.
+
+https://elifesciences.org/labs/d13e1547/innovation-sprint-2019-project-roundup
