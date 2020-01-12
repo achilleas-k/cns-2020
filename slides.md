@@ -219,6 +219,27 @@ The FOSDEM presentation aims at opening the code to the scientific community, no
 
 ---
 
+#### Empowering social scientists with web mining tools
+##### Why and how to enable researchers to perform complex web mining tasks
+
+- Web mining via scraping and crawling of web pages.
+- médialab designs and develops tools to enable researches to perform web mining tasks.
+- Examples & demos of tools:
+  - minet: [github.com/medialab/minet](https://github.com/medialab/minet)
+  - artoo.js bookmarklet: [medialab.github.io/artoo/](https://medialab.github.io/artoo/)
+
+**Guillaume Plique**, Research engineer, médialab, Sciences Po
+
+Note:
+
+- How a social sciences laboratory life can be a very fruitful context for tool R&D regarding webmining
+- How to create performant & effective webmining tools that anyone can use (multithreading, parallelism, JS execution, complex spiders etc.)
+- How to re-localize data collection: researchers should be able to conduct their own collections without being dependent on external servers or resources
+- How to teach researchers the necessary skills: HTML, the DOM, CSS selection etc.
+
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:

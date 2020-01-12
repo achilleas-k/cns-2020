@@ -50,31 +50,6 @@ We are very keen on learning from other participants in the audience what they c
 
 ---
 
-#### Empowering social scientists with web mining tools
-**Why and how to enable researchers to perform complex web mining tasks**
-
-Note:
-
-Abstract:
-Web mining, as represented mostly by the scraping & crawling practices, is not a straightforward task and requires a variety of skills related to web technologies.
-However, web mining can be incredibly useful to social sciences since it enables researchers to tap into a formidable source of information about society.
-
-But researchers may not have the possibility to invest copious amount of times into learning web technologies in and out. They usually rely on engineers to collect data from the web.
-The object of this talk is to explain how Sciences Po's [médialab](https://medialab.sciencespo.fr/en) designed & developed tools to empower researchers and enable them to perform web mining tasks to answer their research questions. Here is an example of issues we will tackle during this talk:
-
-* How a social sciences laboratory life can be a very fruitful context for tool R&D regarding webmining
-* How to create performant & effective webmining tools that anyone can use (multithreading, parallelism, JS execution, complex spiders etc.)
-* How to re-localize data collection: researchers should be able to conduct their own collections without being dependent on external servers or resources
-* How to teach researchers the necessary skills: HTML, the DOM, CSS selection etc.
-
-Examples will be taken mainly from the [minet](https://github.com/medialab/minet) CLI tool and the [artoo.js](https://medialab.github.io/artoo/) bookmarklet.
-
-## Speaker
-
-[Guillaume Plique](https://github.com/Yomguithereal) is a research engineer working for SciencesPo's [médialab](https://medialab.sciencespo.fr/en). He assists social sciences researchers daily with their methods and maintain a variety of FOSS tools geared toward the social sciences community and also developers.
-
-
----
 
 #### Journalists are researchers like any others
 
