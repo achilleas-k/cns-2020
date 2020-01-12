@@ -65,6 +65,11 @@ In general, we want to make FOSDEM (and perhaps other software developer confere
 
 ---
 
+# Part 2
+## Overview of talks
+
+---
+
 #### The good and the bad sides of developing open source tools for neuroscience
 
 - The role of open source solutions in improving the reproducibility of published research.
