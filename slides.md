@@ -213,7 +213,7 @@ Note:
 
 **Lightning talk**
 
-IFSTTAR: The French Institute of Science and Technology for Transport, Development and Networks 
+IFSTTAR: The French Institute of Science and Technology for Transport, Development and Networks
 
 The FOSDEM presentation aims at opening the code to the scientific community, now that the application is close to a first functional version.
 
@@ -237,6 +237,20 @@ Note:
 - How to re-localize data collection: researchers should be able to conduct their own collections without being dependent on external servers or resources
 - How to teach researchers the necessary skills: HTML, the DOM, CSS selection etc.
 
+---
+
+#### Revamping OpenRefine
+##### A reproducible data wrangler
+
+- OpenRefine: A free, open source, powerful tool for working with messy data ([openrefine.org](https://openrefine.org))
+- Overview of efforts to revamp the 10-year-old project.
+- Seeks feedback and discussion about reconstruction project.
+
+**Antonin Delpeuch**, Doctoral student, New College, University of Oxford
+
+Note:
+
+- Data transformation tool popular in many communities: data journalism, semantic web, GLAMs, scientific research.
 
 ---
 

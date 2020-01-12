@@ -96,17 +96,6 @@ Grafoscopio is one of such pocket infrastructures for reproducible research and 
 
 ---
 
-#### Revamping OpenRefine
-**a reproducible data wrangler**
-
-Note:
-
-Abstract:
-OpenRefine is a data transformation tool popular in many communities: data journalism, semantic web, GLAMs, scientific research… In this talk I give an overview of our recent efforts to revamp this project as it approaches its 10th anniversary. We are working on exciting improvements which should help alleviate some of the most salient issues faced by our users. My intention is not to lecture the attendance about how to deal with technical debt or to grow a contributor community - I instead seek feedback and spark discussions about our choices. Let us know what you think and help us take good care of this fantastic tool!
-
-
----
-
 
 #### The Journal of Open Source Software:  credit for invisible work
 
