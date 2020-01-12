@@ -254,6 +254,32 @@ Note:
 
 ---
 
+#### Pocket infrastructures to bridge reproducible research, live coding, civic hacktivism and data feminism for/from the Global South
+
+- Grafoscopio: a flexible, extensible, self contained _pocket infrastructure_.
+- Inclusive approaches and tools for/from the Global South (the _pocket infrastructures_).
+- Bring reproducible research and publishing methodologies and tools outside of academic places:
+  - investigative journalism, data deminism, and civic hacktivism.
+
+**Offray Luna**, Hacktivist, Researcher and Data Visualiser.
+
+Note:
+
+In sharp contrast with exclusionary approaches like _Big Data_ or others that start with big and/or overcomplex infrastructures and are getting traction in the Global North (or are being imported from there to the Global South as the ""only way" forward regarding reproducibility).
+
+
+Showcased reproducible research applied to other fields (outside of research and publishing) by building several prototypes, including:
+- Making the _Panama Papers_ data leak story reproducible
+- Creating domain specific visualizations for medicine information released by 16 governments
+- Porting the Spanish Data Journalism Handbook and the Data Feminism book to their _pocket infrastructures_
+- The creation of agile and resilient tools and practices to write and publish together.
+
+
+Grafoscopio showcase: one of such pocket infrastructures for reproducible research and publishing, agile visualization and data storytelling.
+Some prototypes developed with it, and the community practices that allow the development of such projects and prototypes deconstructing also binary relations of power (software developer/user, data producer / consumer, software binary / source code, male/female).
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:
