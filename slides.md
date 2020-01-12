@@ -108,6 +108,19 @@ A NeuroFedora lab image is now available, with over 130 neuroscience packages re
 
 ---
 
+#### Spotlight on Free Software Building Blocks for a Secure Health Data Infrastructure
+
+- Tools and frameworks for open health data exchange infrastructure.
+- Encourages participants to contribute to the use of open systems in Medical Informatics.
+
+**Markus Suhr**, Department of Medical Informatics, Georg-August-University Goettingen.
+
+Note:
+
+- Exchanging data at the scales common in Medical Informatics requires open data formats and protocols, multi-stakeholder collaboration, and agile development.
+
+---
+
 #### DataLad
 ##### Perpetual decentralized management of digital objects for collaborative open science
 

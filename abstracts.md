@@ -200,17 +200,6 @@ The FOSDEM presentation aims at opening the code to the scientific community, no
 
 ---
 
-#### Spotlight on Free Software Building Blocks for a Secure Health Data Infrastructure
-
-Note:
-
-Abstract:
-Health Data is traditionally held and processed in large and complex mazes of hospital information systems. The market is dominated by vendors offering monolithic and proprietary software due to the critical nature of the supported processes and - in some cases - due to legal requirements. The “digital transformation”, “big data” and “artificial intelligence” are some of the hypes that demand for improved exchange of health care data in routine health care and medical research alike. Exchanging data at these scales requires open data formats and protocols, multi-stakeholder collaboration, and agile development. As an example, the de-facto messaging standard organization in medicine HL7 noticed a much more positive response from the medical research community regarding their openly available FHIR specification in comparison to the for-members-only and XML-based HL7v3 messaging standard specification.
-While some past (or rather: ongoing) projects on a national scale in the German health care system have tried centralized, top-down specification and development approaches, more recent infrastructure projects embrace the competitive collaboration of a decentralized, bottom-up strategy. As a result, importance and recognition of free software increase in the Medical Informatics research community. In a series of rapid spotlights, we present tools and frameworks that serve as cornerstones for the envisioned health data exchange infrastructure, including: Organization and collaboration tools; data extraction from clinical source systems, data transformation and de-identification; data management systems and long-term archival using persistent globally-unique object identifiers; federated queries across multiple independently managed clinical data integration centers.
-We aim to encourage participants to actively add tools and frameworks within the discussion and highlight their experiences and challenges with using open systems in Medical Informatics.
-
-
----
 
 #### Stylo : a user friendly text editor for humanities scholars
 
