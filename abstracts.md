@@ -132,19 +132,6 @@ OpenRefine is a data transformation tool popular in many communities: data journ
 
 ---
 
-#### Shrivelling world
-**A Three dimensional visualisation development for representing geographical time-space **
-
-Note:
-
-Abstract:
-Representing geographical time-space is a fundamental issue in geography, addressing core questions of the discipline, i.e. where are places and what distance separate them. Yet, considering the properties of geographical time space shaped by transport means, no satisfying cartographic representation – including classical maps and plastic space approaches –  has been proposed so far.
-The ",shriveling_world", project aims at producing images of the global geographical time-space, using the third dimension, as in time-space relief maps. The word ",shriveling", was introduced by Waldo Tobler in his comments of Mathis-L'Hostis time-space relief image, in order to describe the complex contraction process suggested by the model.
-The FOSDEM presentation aims at opening the code to the scientific community, now that the application is close to a first functional version.
-
-
----
-
 
 #### The Journal of Open Source Software:  credit for invisible work
 

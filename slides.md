@@ -201,6 +201,24 @@ Note:
 
 ---
 
+#### Shrivelling world
+##### A Three dimensional visualisation development for representing geographical time-space
+
+- Tool for producing images of the global geographical time-space.
+- Approaching initial release (_first functional version_).
+- Code to be opened and released.
+
+**Nicolas Roelandt**, Geospatial information system engineer, IFSTTAR research institute
+Note:
+
+**Lightning talk**
+
+IFSTTAR: The French Institute of Science and Technology for Transport, Development and Networks 
+
+The FOSDEM presentation aims at opening the code to the scientific community, now that the application is close to a first functional version.
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:
