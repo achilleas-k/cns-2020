@@ -171,6 +171,23 @@ The 4OSS simple recommendations are as follows:
 
 ---
 
+#### Stylo: A user friendly text editor for humanities scholars
+
+- [stylo.ecrituresnumeriques.ca](https://stylo.ecrituresnumeriques.ca)
+- WYSIWYM editor for writing scientific articles.
+- Targeted at humanities and social sciences.
+
+**Antoine Fauchié**, Ph.D candidate, University of Montréal
+
+Note:
+
+**Lightning talk**
+
+- Stylo is designed to simplify the writing and editing of scientific articles in the humanities and social sciences.
+- It is intended for authors and publishers engaged in high quality scientific publishing.
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:

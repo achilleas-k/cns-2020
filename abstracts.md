@@ -146,20 +146,6 @@ The FOSDEM presentation aims at opening the code to the scientific community, no
 ---
 
 
-#### Stylo : a user friendly text editor for humanities scholars
-
-Note:
-
-Abstract:
-As an editor for WYSIWYM text, Stylo is designed to change the entire digital editorial chain of scholarly journals the field of human sciences.
-
-Stylo (https://stylo.ecrituresnumeriques.ca) is designed to simplify the writing and editing of scientific articles in the humanities and social sciences. It is intended for authors and publishers engaged in high quality scientific publishing. Although the structuring of documents is fundamental for digital distribution, this aspect is currently delayed until the end of the editorial process. This task should, however, be undertaken early on in the process; it must be considered by the author himself. The philosophy behind Stylo consists in returning the task of managing the publication markup to researchers. This repositioning of tasks relating to the editorial process relies on the author’s semantic rather than graphic skills.
-
-This lightning talk will be the opportunity to present this tool and several publishing projects realized with Stylo.
-
-
----
-
 #### The Journal of Open Source Software:  credit for invisible work
 
 Note:
