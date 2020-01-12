@@ -1,19 +1,3 @@
-#### Developing from the field.
-##### Shifting design processes and roles between makers and practitioners around research tools development within an interdisciplinary research lab.
-
-Note:
-
-Abstract:
-Software design and development within interdisciplinary research teams is a specific activity which closely associates makers and practitioners in the equipment of experimental research methods and practices. This closeness allows practitioners to tackle research endeavours’ specific requirements, such as understanding the methodological assumptions encoded within the tools. It also induces a specific relationship between “makers” and their publics of “users” : a non-commercial, situated and case-based crafting process, implying shifting roles and complex decision making. How does this peculiar context affect the design and valorization practices around open research tools and their evolution ? What are the benefits and difficulties of such settings, in terms of work organization, pedagogical approaches, and scientific methodology ? What can be shared for other contexts such as activism or journalism ? Grounding on the presentation of several case studies of research tools’ design and development elaborated at the médialab of Sciences Po, this talk will offer an account of how an interdisciplinary research environment affects and dialogs with established methods of design (“participative design”, “user experience research”), development (“agile methods”), and tool valorization and socialization.
-
-
-Description:
-Audrey Baneyx has a PhD in artificial intelligence from Paris 6 university. She is a research engineer at the médialab (Sciences Po, Paris) where she works at the intersection of digital methods, knowledge modelling and designing pedagogical storytellings. She is teaching digital culture and methods and, as a mediator, developing médialab tools communities of practitioners. She is co-leading a research group focusing on gender issues online.
-
-Robin de Mourat is research designer at the médialab laboratory (Sciences Po, Paris). He works at the intersection between academic equipment and inquiry practices, combining a background in product design, design history & theory, and human-computer interactions, with diverse material and discursive experiments in the Humanities and Social Sciences. He has participated to the making of texts, things and conversations about the epistemology of design activities, interdisciplinary methodologies, and social & cultural studies of scholarly practices. He has been involved for several years in the development of advanced tools for academic writing and publishing in humanities and social sciences contexts.
-
----
-
 #### Developing Open-Science Research Platforms
 **Zotero, PressForward, Tropy, DHARPA**
 

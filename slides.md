@@ -228,7 +228,7 @@ The FOSDEM presentation aims at opening the code to the scientific community, no
   - minet: [github.com/medialab/minet](https://github.com/medialab/minet)
   - artoo.js bookmarklet: [medialab.github.io/artoo/](https://medialab.github.io/artoo/)
 
-**Guillaume Plique**, Research engineer, médialab, Sciences Po
+**Guillaume Plique**, Research engineer, médialab, Sciences Po, Paris.
 
 Note:
 
@@ -308,6 +308,27 @@ Issues:
 - maintainability and robustness while increasing code base
 
 ICIJ: International Consortium of Investigative Journalists
+
+---
+
+#### Developing from the field.
+##### Shifting design processes and roles between makers and practitioners around research tools development within an interdisciplinary research lab
+
+- Software design and development in an interdisciplinary research team.
+- The benefits and difficulties of collaboration between developers and users of open source research tools.
+- Presentation of several case studies of research tools' design and development at the médialab of Sciences Po.
+
+**Audrey Baneyx**, Research engineer, médialab, Sciences Po, Paris
+**Robin de Mourat**, Research designer, médialab, Sciences Po, Paris
+
+Note:
+
+Abstract:
+- Allows practitioners to tackle research endeavours' specific requirements, such as understanding the methodological assumptions encoded within the tools.
+- It also induces a specific relationship between "makers" and their publics of "users": a non-commercial, situated and case-based crafting process, implying shifting roles and complex decision making.
+- How does this peculiar context affect the design and valorization practices around open research tools and their evolution ?
+- What are the benefits and difficulties of such settings, in terms of work organization, pedagogical approaches, and scientific methodology?
+- What can be shared for other contexts such as activism or journalism ? , this talk will offer an account of how an interdisciplinary research environment affects and dialogs with established methods of design (“participative design”, “user experience research”), development (“agile methods”), and tool valorization and socialization.
 
 ---
 
