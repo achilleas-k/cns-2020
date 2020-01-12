@@ -77,7 +77,7 @@ In general, we want to make FOSDEM (and perhaps other software developer confere
 - Open source based workflow for creating and storing data and metadata.
 
 
-**Jan Grewe**, Institute for Neurobiology, University of Tuebingen.
+**Jan Grewe**, Institute for Neurobiology, University of Tuebingen
 
 ---
 
@@ -118,7 +118,7 @@ A NeuroFedora lab image is now available, with over 130 neuroscience packages re
 - Tools and frameworks for open health data exchange infrastructure.
 - Encourages participants to contribute to the use of open systems in Medical Informatics.
 
-**Markus Suhr**, Department of Medical Informatics, Georg-August-University Goettingen.
+**Markus Suhr**, Department of Medical Informatics, Georg-August-University Goettingen
 
 Note:
 
@@ -233,7 +233,7 @@ The FOSDEM presentation aims at opening the code to the scientific community, no
   - minet: [github.com/medialab/minet](https://github.com/medialab/minet)
   - artoo.js bookmarklet: [medialab.github.io/artoo/](https://medialab.github.io/artoo/)
 
-**Guillaume Plique**, Research engineer, médialab, Sciences Po, Paris.
+**Guillaume Plique**, Research engineer, médialab, Sciences Po, Paris
 
 Note:
 
@@ -266,7 +266,7 @@ Note:
 - Bring reproducible research and publishing methodologies and tools outside of academic places:
   - investigative journalism, data deminism, and civic hacktivism.
 
-**Offray Luna**, Hacktivist, Researcher and Data Visualiser.
+**Offray Luna**, Hacktivist, Researcher and Data Visualiser
 
 Note:
 
@@ -343,7 +343,7 @@ Abstract:
 - Feedback from experience helping a researcher transforming a series of scattered analyses into a documented, reproducible and shareable workflow.
 - A documentation-first method of developing research software that's shareable and more widely applicable.
 
-**Sébastien Rochette**, Data scientist, ThinkR.
+**Sébastien Rochette**, Data scientist, ThinkR
 
 Note:
 
