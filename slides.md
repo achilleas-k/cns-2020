@@ -188,6 +188,19 @@ Note:
 
 ---
 
+#### Using Advene to accompany research in AudioVisual Digital Humanities
+
+- Video annotation platform for audiovisual analysis workflows.
+- [advene.org](https://advene.org/)
+
+**Olivier Aubert**, Research engineer and R&D consultant, University of Nantes
+
+Note:
+
+**Lightning talk**
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:

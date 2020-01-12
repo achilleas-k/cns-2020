@@ -187,13 +187,3 @@ This topic is also related to another blog post: https://rtask.thinkr.fr/when-de
 ## Links to previous talks by the speaker
 Talks about R are in my Github repository: https://github.com/statnmap/prez/. The ",README", lists talks that have a live recorded video.
 As a researcher, I also gave multiple talks about marine science, modelling and other topics related to my research.
-
----
-
-#### Using Advene to accompany research in AudioVisual Digital Humanities
-
-Note:
-
-Abstract:
-Advene is a video annotation platform (free software) that aims at accompanying scholars in their audiovisual analyses workflow. It promotes flexible and evolving annotation structures and interfaces in order to deal with the inherent dynamic nature of analysis. In this presentation, I will present the platform itself, and illustrate its usage through existing Digital Humanities projects that use it, from structuring videos for interview analyses to implementing a workflow for semantic annotation of movies.
-
