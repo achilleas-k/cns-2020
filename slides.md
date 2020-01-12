@@ -316,14 +316,15 @@ ICIJ: International Consortium of Investigative Journalists
 
 ---
 
-#### Developing from the field.
+#### Developing from the field
 ##### Shifting design processes and roles between makers and practitioners around research tools development within an interdisciplinary research lab
 
-- Software design and development in an interdisciplinary research team.
+- Software development in an interdisciplinary team.
 - The benefits and difficulties of collaboration between developers and users of open source research tools.
-- Presentation of several case studies of research tools' design and development at the médialab of Sciences Po.
+- Case studies from the médialab of Sciences Po.
 
 **Audrey Baneyx**, Research engineer, médialab, Sciences Po, Paris
+
 **Robin de Mourat**, Research designer, médialab, Sciences Po, Paris
 
 Note:
