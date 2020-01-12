@@ -153,6 +153,24 @@ The Frictionless Data initiative (https://frictionlessdata.io/) at Open Knowledg
 
 ---
 
+#### On the road to sustainable research software.
+
+- ELIXIR: intergovernmental organization that brings together life science resources across Europe.
+- Recommendations for encouraging best practices in research software (4OSS).
+- Create and publish training materials and comprehensive guidelines.
+
+**Mateusz Kuzak**, Research Software Community Manager, Netherlands eScience Center
+
+Note:
+
+The 4OSS simple recommendations are as follows:
+- Develop a publicly accessible open-source code from day one.
+- Make software easy to discover by providing software metadata via a popular community registry.
+- Adopt a license and comply with the licence of third-party dependencies.
+- Have a clear and transparent contribution, governance and communication processes.
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:

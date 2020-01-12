@@ -103,37 +103,6 @@ Issues we had to fix :
 
 ---
 
-#### On the road to sustainable research software.
-
-Note:
-
-Abstract:
-ELIXIR is an intergovernmental organization that brings together life science resources across Europe. These resources include databases, software tools, training materials, cloud storage, and supercomputers.
-
-Description:
-One of the goals of ELIXIR [1] is to coordinate these resources so that they form a single infrastructure. This infrastructure makes it easier for scientists to find and share data, exchange expertise, and agree on best practices. ELIXIR's activities are divided into the following five areas Data, Tools, Interoperability, Compute and Training known as “platforms”. The ELIXIR Tools Platform works to improve the discovery, quality and sustainability of software resources. Software Best Practices task of the Tools Platform aims to raise the quality and sustainability of research software by producing, adopting, promoting and measuring information standards and best practices applied to the software development life cycle. We have published four (4OSS) simple recommendations to encourage best practices in research software [2]  and the Top 10 metrics for life science software good practices [3].
-
-The 4OSS simple recommendations are as follows:
-- Develop a publicly accessible open-source code from day one.
-- Make software easy to discover by providing software metadata via a popular community registry.
-- Adopt a license and comply with the licence of third-party dependencies.
-- Have a clear and transparent contribution, governance and communication processes.
-
-In order to encourage researchers and developers to adopt the 4OSS recommendations and build FAIR (Findable, Accessible, Interoperable and Reusable) software, best practices group in partnership with the ELIXIR Training platform, The Carpentries [4][5], and other communities are creating a collection of training materials [6]. The next step is to adopt, promote, and recognise these information standards and best practices, by developing comprehensive guidelines for software curation, and through workshops for training researchers and developers towards the adoption of software best practices and improvement of the usability of research software tools.
-
-Additionally, the ELIXIR Software Best Practices WG is currently developing a Software Management Plan under the context of the necessary metrics for assessing adoption of good software development practices [7] and will subsequently develop practical guidelines to support its implementation in ELIXIR projects. We will work with the newly formed  ReSA (Research Software Alliance) to facilitate the adoption of this plan to the broader community.
-In the past year, the Working Group has also been working on improving the tooling and practices around software citation. This work has been done in collaboration with the eLife journal, the Software Sustainability Institute, Datacite, and Software Heritage, over multiple sprint events: (i) BOSC CoFest, (ii) eLife Innovation Sprint, (iii) FORCE19 Research Software Hackathon, and (iv) BioHackathon.
-
-[1] “ELIXIR | A distributed infrastructure for life-science information” Internet: https://www.elixir-europe.org/, [Sep. 16, 2018]
-[2] Jiménez RC, Kuzak M, Alhamdoosh M et al. (2017) “Four simple recommendations to encourage best practices in research software” F1000Research [Online]. 6:876. https://doi.org/10.12688/f1000research.11407.1
-[3] Top 10 metrics for life science software good practices https://doi.org/10.12688/f1000research.9206.1
-[4] “carpentries.org” Internet: carpentries.org, Sep. 15, 2018 [Sep. 16, 2018]
-[5] “ELIXIR teams up with The Carpentries to boost its training programme | ELIXIR”, Internet: https://www.elixir-europe.org/news/elixir-carpentries-agreement, Aug. 17, 2018 [Sep. 16, 2018]
-[6] SoftDev4Research/4OSS-lesson https://doi.org/10.5281/zenodo.2565040
-[7] Top 10 metrics for life science software good practices https://doi.org/10.12688/f1000research.9206.1
-
----
-
 #### Pocket infrastructures to bridge reproducible research, live coding, civic hacktivism and data feminism for/from the Global South
 
 Note:
