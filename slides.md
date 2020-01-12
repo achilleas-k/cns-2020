@@ -9,11 +9,11 @@ revealOptions:
 
 ## Open Research Tools and Technologies
 
-FOSDEM track preview
+### FOSDEM track preview
 
-> Achilleas Koutsou
+##### Achilleas Koutsou
 
-2020-01-13
+##### 2020-01-13
 
 ---
 
