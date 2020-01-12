@@ -338,6 +338,41 @@ Abstract:
 
 ---
 
+#### Transforming scattered analyses into a documented, reproducible and shareable workflow
+
+- Feedback from experience helping a researcher transforming a series of scattered analyses into a documented, reproducible and shareable workflow.
+- A documentation-first method of developing research software that's shareable and more widely applicable.
+
+**Sébastien Rochette**, Data scientist, ThinkR.
+
+Note:
+
+Example of a _collaboration fest_: dissected R scripts of a researcher in ecology.
+Started a reproducible, documented and open-source R-package along with its website, automatically built using continuous integration: https://cesco-lab.github.io/Vigie-Chiro_scripts/
+
+
+Description:
+## Session type (Lecture or Lightning Talk)
+Lecture
+
+## Session length (20-40 min, 10 min for a lightning talk)
+30 min
+
+## Expected prior knowledge / intended audience
+No prior knowledge expected. Example will be about building documentation for R software but any developper, using any programming language may be interested in the method adopted.
+
+## Speaker bio
+
+
+## Links to code / slides / material for the talk (optional)
+I wrote a blog post in French about what I am planning to present: https://thinkr.fr/transformer-plusieurs-scripts-eparpilles-en-beau-package-r/
+This topic is also related to another blog post: https://rtask.thinkr.fr/when-development-starts-with-documentation/
+
+## Links to previous talks by the speaker
+Talks about R are in my Github repository: https://github.com/statnmap/prez/. The ",README", lists talks that have a live recorded video.
+As a researcher, I also gave multiple talks about marine science, modelling and other topics related to my research.
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:
