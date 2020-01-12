@@ -407,3 +407,20 @@ Note:
 DSpace7 adopting new Angular UI layer, dropping legacy JSPUI and XMLUI.
 
 Atmire: service provider for the open source institutional repository platform DSpace.
+
+---
+
+## Part 3
+### Live stream and recordings
+
+---
+
+Talks are streamed live during the event: [fosdem.org/2020/schedule/track/
+open_research_tools_and_technologies](https://fosdem.org/2020/schedule/track/open_research_tools_and_technologies/)
+
+After the event, recordings are made available on the FOSDEM video archive: [video.fosdem.org](https://video.fosdem.org)
+
+---
+
+##### Thanks for listening
+##### EOF
