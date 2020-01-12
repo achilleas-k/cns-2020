@@ -32,16 +32,3 @@ We are very keen on learning from other participants in the audience what they c
 [The DSpace 7 Angular UI from a user perspective](https://lecture2go.uni-hamburg.de/l2go/-/get/v/24820)
 
 
----
-
-
-
-
-#### The Journal of Open Source Software:  credit for invisible work
-
-Note:
-
-Abstract:
-Researchers rarely cite software they use as part of their research. As a result, research software and the time spent developing it have become invisible scholarly contributions. This lack of visibility reduces the incentives that are necessary to produce and share high quality software that are essential for the progress of science.  The Journal of Open Source Software (JOSS) is an open source, open access journal primarily designed to make it easier for those individuals authoring research software to gain career credit for their work by publishing short software papers. Software papers are a recognized mechanism for authors of research software to create a citable ‘entity’ which can easily be cited in journals and as such directly impact a researcher’s career via established metrics such as the h-index. JOSS is unique in that it only accepts very short (~ 1-2 pages) papers, with short summaries and links to the software repository. In that sense, the software papers are not the focus of the review. Instead, we ask reviewers to conduct a thorough review of the associated software (which must be open source) ensuring that it is well documented, straightforward to install and functions as expected. In this talk I will describe the origin and impact that JOSS has had on research open source and also touch upon issues such as sustainability and credit.
-
-

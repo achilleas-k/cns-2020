@@ -390,3 +390,22 @@ https://elifesciences.org/labs/7dbeb390/reproducible-document-stack-supporting-t
 >  eLife Innovation Sprint, a global gathering of researchers, developers, designers, technologists, publishers and others to develop open-source prototypes to change the ways we discover, share, consume and evaluate research.
 
 https://elifesciences.org/labs/d13e1547/innovation-sprint-2019-project-roundup
+
+---
+
+#### The Journal of Open Source Software: credit for invisible work
+
+- The Journal of Open Source Software (JOSS)
+- Open source, open access journal: short software papers for research software developers.
+- Only accepts very short papers: 1-2 pages.
+- Reviewers are asked to focus on the software, not the short summaries in the paper.
+
+**Karthik Ram**, Data scientist, Institute for Data Science, UC Berkeley
+
+Note:
+
+ JOSS is unique in that it only accepts very short (~ 1-2 pages) papers, with short summaries and links to the software repository.
+The software papers are not the focus of the review.
+Reviewers are asked to conduct a thorough review of the associated software (which must be open source) ensuring that it is well documented, straightforward to install and functions as expected.
+
+Will describe the origin and impact that JOSS has had on research open source and also touch upon issues such as sustainability and credit.
