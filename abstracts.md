@@ -51,33 +51,6 @@ We are very keen on learning from other participants in the audience what they c
 ---
 
 
-#### Journalists are researchers like any others
-
-Note:
-
-Abstract:
-We are not journalists. But we are developers working for journalists. When we received leaks, we are flooded by the huge amount of documents and the huge amount of questions that journalists have, trying to dig into this leak. Among others :
-    * Where to begin ?
-    * How many documents mentioned ",tax avoidance", ?
-    * How many languages are in this leaks ?
-    * How many documents are in CSV ?
-See, journalists have more or less the same questions than researchers ! So to help them answer all these questions we developed Datashare. In a nutshell, Datashare is a tool to answer all your questions about a corpus of documents : just like Google but without Google and without sending information to Google. That means that it extracts content and metadata from all types of documents and index it. Then, it detects any people, locations, organizations and email addresses. The web interface expose all of that to let you have a complete overview of your corpus and search through it. Plus Datashare lets you star and tag documents.
-
-We didn't want to reinvent the wheel, and use our assets that has been proved to work well. How did we end up with Datashare from an heterogeneous environment :
-    - a command line tool to extract text from huge document corpus
-    - a proof of concept of NLP pipelines in java
-    - a shared index based on blacklight/ RoR and SolR
-    - opensource tools and frameworks  !!
-
-Issues we had to fix :
-    - UX hard to improve because it is a shared open source repository (layout, ...)
-    - scalability of SolR with millions of documents
-    - integration of all the tools in one
-    - maintainability and robustness while increasing code base
-
-
----
-
 
 
 #### The Journal of Open Source Software:  credit for invisible work

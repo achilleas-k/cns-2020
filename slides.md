@@ -280,6 +280,37 @@ Some prototypes developed with it, and the community practices that allow the de
 
 ---
 
+#### Journalists are researchers like any others
+
+- Datashare: a tool to answer all the interesting questions about a corpus of documents (primarily from data leaks).
+- Made by _developers working for journalists_.
+- Extracts and indexes content and metadata from all types of documents.
+- Exposes data and information through web interface.
+- Built on open source tools and frameworks.
+
+**Anne L'Hôte**, Front-end developer, ICIJ, in charge of implementing Datashare
+**Bruno Thomas**, Senior developer, ICIJ
+
+Note:
+
+"We are not journalists. But we are developers working for journalists."
+
+How Datashare happened:
+- a command line tool to extract text from huge document corpus
+- a proof of concept of NLP pipelines in java
+- a shared index based on blacklight/ RoR and SolR
+- opensource tools and frameworks  !!
+
+Issues:
+- UX hard to improve because it is a shared open source repository (layout, ...)
+- scalability of SolR with millions of documents
+- integration of all the tools in one
+- maintainability and robustness while increasing code base
+
+ICIJ: International Consortium of Investigative Journalists
+
+---
+
 #### A community-driven approach towards open innovation for research communication
 
 eLife projects:
