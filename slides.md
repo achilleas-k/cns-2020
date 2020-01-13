@@ -26,7 +26,7 @@ revealOptions:
 
 > FOSDEM is a free and non-commercial event organised by the community for the community.
 
-> Devrooms are a place for teams to discuss, hack and publicly present latest directions, lightning talks, news and discussions. We believe developers can benefit a lot from these meetings.
+> Devrooms are a place for teams to discuss, hack and publicly present latest directions, lightning talks, news and discussions.
 
 - [fosdem.org/2020/about](https://fosdem.org/2020/about)
 
@@ -237,7 +237,7 @@ The FOSDEM presentation aims at opening the code to the scientific community, no
 
 Note:
 
-- How a social sciences laboratory life can be a very fruitful context for tool R&D regarding webmining
+- How social sciences laboratory life can be a very fruitful context for tool R&D regarding webmining
 - How to create performant & effective webmining tools that anyone can use (multithreading, parallelism, JS execution, complex spiders etc.)
 - How to re-localize data collection: researchers should be able to conduct their own collections without being dependent on external servers or resources
 - How to teach researchers the necessary skills: HTML, the DOM, CSS selection etc.
@@ -329,7 +329,6 @@ ICIJ: International Consortium of Investigative Journalists
 
 Note:
 
-Abstract:
 - Allows practitioners to tackle research endeavours' specific requirements, such as understanding the methodological assumptions encoded within the tools.
 - It also induces a specific relationship between "makers" and their publics of "users": a non-commercial, situated and case-based crafting process, implying shifting roles and complex decision making.
 - How does this peculiar context affect the design and valorization practices around open research tools and their evolution ?
